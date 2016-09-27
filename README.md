@@ -1,3 +1,3 @@
 # hello-world
-Hello. Hola. Hi. All day, everyday.
+Hello.
 Question: When does 1+1 not equal 2?
